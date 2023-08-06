@@ -17,4 +17,4 @@ Stocks, futures, digital currency, foreign exchange
 
 # we
 
-[English official website](https://www.okaibot.com/index_en.html) | [Chinese official website](https://www.okaibot.com)
+[English official website](https://www.okaibot.com/index_en.html) | [中文官网](https://www.okaibot.com)
